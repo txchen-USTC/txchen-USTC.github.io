@@ -53,5 +53,6 @@ Internship
 2023.10 - Present: Alibaba Cloud & Alibaba DAMO Academy, Research Intern on LLMs/MLLMs
 
 2021.12 - 2022.5: SenseTime Research, Research Intern on Medical AI
+
 2021.07 - 2021.12: Orient Securieties, Assistant Financial Analyst
 
