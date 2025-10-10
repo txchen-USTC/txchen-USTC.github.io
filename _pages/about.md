@@ -38,6 +38,7 @@ Education
 ======
 
 2021.09 - Present: MSc & PhD, School of Cyber Space and Technology, University of Science and Technology of China (USTC)
+
 2017.09 - 2021.06: B.S., Yingcai Honors College, University of Electronic Science and Technology of China (UESTC)
 
 Awards
