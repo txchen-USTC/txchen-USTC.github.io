@@ -14,15 +14,17 @@ I have published several first-author and corresponding-author papers in top-tie
 
 Selected Publications
 ======
-[**Arxiv 2025**] [Flora: Effortless Context Construction to Arbitrary Length and Scale](https://arxiv.org/pdf/2507.19786?), Tianxiang Chen, Zhentao Tan, Xiaofan Bo, Yue Wu, Tao Gong, Qi Chu, Jieping Ye, Nenghai Yu.
+[**Arxiv 2025**] [Flora: Effortless Context Construction to Arbitrary Length and Scale](https://arxiv.org/pdf/2507.19786?), **Tianxiang Chen**, Zhentao Tan, Xiaofan Bo, Yue Wu, Tao Gong, Qi Chu, Jieping Ye, Nenghai Yu.
 
-[**IEEE TMI 2025**] [Zig-rir: Zigzag rwkv-in-rwkv for efficient medical image segmentation](https://ieeexplore.ieee.org/abstract/document/10969076/), Tianxiang Chen, Xudong Zhou, Zhentao Tan, Yue Wu, Ziyang Wang, Zi Ye, Tao Gong, Qi Chu, Nenghai Yu, Le Lu.
+[**IEEE TMI 2025**] [Zig-rir: Zigzag rwkv-in-rwkv for efficient medical image segmentation](https://ieeexplore.ieee.org/abstract/document/10969076/), **Tianxiang Chen**, Xudong Zhou, Zhentao Tan, Yue Wu, Ziyang Wang, Zi Ye, Tao Gong, Qi Chu, Nenghai Yu, Le Lu.
 
-[**EMNLP Findings 2024**] [Llama SLayer 8B: Shallow Layers Hold the Key to Knowledge Injection](https://arxiv.org/pdf/2410.02330?), Tianxiang Chen, Zhentao Tan, Tao Gong, Yue Wu, Qi Chu, Bin Liu, Jieping Ye, Nenghai Yu.
+[**EMNLP Findings 2024**] [Llama SLayer 8B: Shallow Layers Hold the Key to Knowledge Injection](https://arxiv.org/pdf/2410.02330?), **Tianxiang Chen**, Zhentao Tan, Tao Gong, Yue Wu, Qi Chu, Bin Liu, Jieping Ye, Nenghai Yu.
 
-[**IEEE TGRS 2024**] [Mim-istd: Mamba-in-mamba for efficient infrared small target detection](https://ieeexplore.ieee.org/abstract/document/10740056/), Tianxiang Chen, Zi Ye, Zhentao Tan, Tao Gong, Yue Wu, Qi Chu, Bin Liu, Nenghai Yu, Jieping Ye.
+[**IEEE TGRS 2024**] [Mim-istd: Mamba-in-mamba for efficient infrared small target detection](https://ieeexplore.ieee.org/abstract/document/10740056/), **Tianxiang Chen**, Zi Ye, Zhentao Tan, Tao Gong, Yue Wu, Qi Chu, Bin Liu, Nenghai Yu, Jieping Ye.
 
-[**AAAI 2024**] [Tci-former: Thermal conduction-inspired transformer for infrared small target detection](https://ojs.aaai.org/index.php/AAAI/article/download/27882/27789), Tianxiang Chen, Zhentao Tan, Qi Chu, Yue Wu, Bin Liu, Nenghai Yu.
+[**Scientific Data 2024**] [A Comprehensive Video Dataset for Surgical Laparoscopic Action Analysis](https://www.nature.com/articles/s41597-025-05093-7), Zi Ye, Ru Zhou, Zili Deng, Dan Wang, Ying Zhu, Xiaoli Jin, Lijun Zhang, **Tianxiang Chen**, Hanwei Zhang, Mingliang Wang
+
+[**AAAI 2024**] [Tci-former: Thermal conduction-inspired transformer for infrared small target detection](https://ojs.aaai.org/index.php/AAAI/article/download/27882/27789), **Tianxiang Chen**, Zhentao Tan, Qi Chu, Yue Wu, Bin Liu, Nenghai Yu.
 
 [**ACM MM 2024**] [Bsbp-rwkv: Background suppression with boundary preservation for efficient medical image segmentation](https://dl.acm.org/doi/abs/10.1145/3664647.3681033), Xudong Zhou, **Tianxiang Chen** *.
 
@@ -30,17 +32,24 @@ Selected Publications
 
 [**Applied Sciences 2024**] [A survey on visual mamba](https://www.mdpi.com/2076-3417/14/13/5683), Hanwei Zhang, Ying Zhu, Dan Wang, Lijun Zhang, **Tianxiang Chen**, Ziyang Wang, Zi Ye.
 
-[**IJCAI 2023**] [Tci-former: Thermal conduction-inspired transformer for infrared small target detection](https://www.ijcai.org/proceedings/2023/0066.pdf), Tianxiang Chen, Zhentao Tan, Qi Chu, Yue Wu, Bin Liu, Nenghai Yu.
+[**IJCAI 2023**] [Tci-former: Thermal conduction-inspired transformer for infrared small target detection](https://www.ijcai.org/proceedings/2023/0066.pdf), **Tianxiang Chen**, Zhentao Tan, Qi Chu, Yue Wu, Bin Liu, Nenghai Yu.
 
 Education
 ======
 
-2021.09 - Present: PhD, School of Cyber Space and Technology, University of Science and Technology of China (USTC)
-2017.09 - 2021.06: Bachelor's Degree, Yingcai Honors College, University of Electronic Science and Technology of China (UESTC)
+2021.09 - Present: MSc & PhD, School of Cyber Space and Technology, University of Science and Technology of China (USTC)
+2017.09 - 2021.06: B.S., Yingcai Honors College, University of Electronic Science and Technology of China (UESTC)
 
 Awards
 ======
 1. National Scholarship, USTC, 2025
 2. National Scholarship, USTC, 2023
 3. Huawei Scholarship, USTC, 2024
+
+Internship
+======
+
+2023.10 - Present: Alibaba Cloud & Alibaba DAMO Academy, Research Intern on LLMs/MLLMs
+2021.12 - 2022.5: SenseTime Research, Research Intern on Medical AI
+2021.07 - 2021.12: Orient Securieties, Assistant Financial Analyst
 
