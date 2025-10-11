@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # Currently available options are "default", "air"
-title                    : "Tianxiang Chen/Homepage"
+title                    : "Tianxiang Chen Homepage"
 title_separator          : "-"
 name                     : &name "Tianxiang Chen"
 description              : &description "Final-year PhD student from USTC"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Never follow the crowd."
   location         : "Shanghai"
-  employer         : "University of Science and Technology of China"
+  employer         : "USTC, Alibaba Group"
   uri              : # URL
   email            : "txchen@mail.ustc.edu.cn" 
 
