@@ -23,7 +23,7 @@ repository               : "https://github.com/txchen-USTC"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/bio.png"
+  avatar           : "bio.png"
   name             : "Tianxaing Chen"
   pronouns         : # example: "she/her"  
   bio              : "Never follow the crowd."
