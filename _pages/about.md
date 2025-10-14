@@ -8,9 +8,11 @@ redirect_from:
 ---
 
 
-Hello, my name is Tianxiang Chen, and I am currently a final-year PhD student at Schools of Cyber Space and Technology, University of Science and Technology of China (USTC), under the supervision of Prof. [Nenghai Yu](https://scholar.google.com/citations?user=7620QAMAAAAJ&hl=en). Prior to this, I obtained my Bachelor's degree from the University of Electronic Science and Technology of China (UESTC), Yingcai Honors College. My major was in Mathematics, Physics, and Fundamental Sciences. My current research interests lie in the areas of Multimodal Large Language Models (MLLMs), Large Language Models (LLMs), Medical AI, and small target detection.
+Hello, my name is Tianxiang Chen, and I am currently a final-year Ph.D student at School of Cyber Space and Technology, University of Science and Technology of China (USTC), under the supervision of Prof. [Nenghai Yu](https://scholar.google.com/citations?user=7620QAMAAAAJ&hl=en). Prior to this, I obtained my Bachelor's degree from the University of Electronic Science and Technology of China (UESTC), Yingcai Honors College. My major was in Mathematics, Physics, and Fundamental Sciences. My current research interests lie in the areas of Multimodal Large Language Models (MLLMs), Large Language Models (LLMs) and Medical AI.
 
 I have published several first-author and corresponding-author papers in top-tier journals and conferences, including TMI, TCSVT, TGRS, Scientific Data, AAAI, EMNLP, IJCAI, and ACM MM. These publications reflect my commitment to advancing the state-of-the-art in these fields. During my PhD, I had the opportunity to complete a long-term internship at Alibaba Cloud, where I was jointly supervised by [Jieping Ye](https://scholar.google.com/citations?user=T9AzhwcAAAAJ&hl=en) (VP of Alibaba Cloud, IEEE Fellow) and [Le Lu](https://scholar.google.com/citations?user=kZn0f6gAAAAJ&hl=en) (IEEE Fellow, MICCAI Board Member). This experience provided me with valuable insights into the practical applications of AI and deepened my understanding of the industry's needs. I also have close cooporations with researchers and doctors from Oxford, Alan Turing Institute, Trinity College Dublin, Ruijin Hospital Luwan Branch, Shanghai Jiao Tong University and Ant Group.
+
+**Looking for cooporations of any kinds!!! If you are interested, drop me en e-mail right now!!!**
 
 Selected Publications
 ======
@@ -40,11 +42,9 @@ Selected Publications
 
 Education
 ======
-2023.09 - Present: Ph.D in School of Cyber Space and Technology, USTC
-
-2021.09 - 2023.08: M.S. in School of Cyber Space and Technology, USTC
-
-2017.09 - 2021.06: B.S. in Yingcai Honors College, UESTC
+1. 2023.09 - Present: Ph.D in School of Cyber Space and Technology, USTC
+2. 2021.09 - 2023.08: M.S. in School of Cyber Space and Technology, USTC
+3. 2017.09 - 2021.06: B.S. in Yingcai Honors College & Liren Class, UESTC (2/4900)
 
 Awards
 ======
@@ -52,13 +52,16 @@ Awards
 2. National Scholarship, USTC, 2023
 3. Huawei Scholarship, USTC, 2024
 4. Chinese Youth Delegate, UN Climate Change Conference, Bonn, 2019
+5. National College English Contest, First Prize (top 0.6%), 2019
 
 Internship
 ======
+1. 2023.10 - Present: **Alibaba Cloud & Alibaba DAMO Academy**, Research Intern on LLMs/MLLMs
+2. 2021.12 - 2022.5: **SenseTime Research**, Research Intern on Medical AI
+3. 2021.07 - 2021.12: **Orient Securieties Research**, Assistant Financial Analyst (Quantitative Investment & CS)
 
-2023.10 - Present: **Alibaba Cloud & Alibaba DAMO Academy**, Research Intern on LLMs/MLLMs
-
-2021.12 - 2022.5: **SenseTime Research**, Research Intern on Medical AI
-
-2021.07 - 2021.12: **Orient Securieties Research**, Assistant Financial Analyst (Quantitative Investment & CS)
+Reviewer Seversices
+======
+1. Journals: IEEE TIP, IEEE TMI, IEEE TNNLS, IEEE TMM, IEEE TCSVT, IEEE TGRS, Pattern Recognition
+2. Conferences: ACL, EMNLP, CVPR, ICCV, ECCV, AAAI, ACM MM, IJCAI, MICCAI
 
