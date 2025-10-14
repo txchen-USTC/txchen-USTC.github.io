@@ -12,7 +12,7 @@ Hello, my name is Tianxiang Chen, and I am currently a final-year Ph.D student a
 
 I have published several first-author and corresponding-author papers in top-tier journals and conferences, including TMI, TCSVT, TGRS, Scientific Data, AAAI, EMNLP, IJCAI, and ACM MM. These publications reflect my commitment to advancing the state-of-the-art in these fields. During my PhD, I had the opportunity to complete a long-term internship at Alibaba Cloud, where I was jointly supervised by [Jieping Ye](https://scholar.google.com/citations?user=T9AzhwcAAAAJ&hl=en) (VP of Alibaba Cloud, IEEE Fellow) and [Le Lu](https://scholar.google.com/citations?user=kZn0f6gAAAAJ&hl=en) (IEEE Fellow, MICCAI Board Member). This experience provided me with valuable insights into the practical applications of AI and deepened my understanding of the industry's needs. I also have close cooporations with researchers and doctors from Oxford, Alan Turing Institute, Trinity College Dublin, Ruijin Hospital Luwan Branch, Shanghai Jiao Tong University and Ant Group.
 
-**Looking for cooporations of any kinds!!! If you are interested, drop me en e-mail right now!!!**
+**Looking for Cooporations of Any Kinds!!! If You are Interested, Just Drop Me an E-mail!!!**
 
 Selected Publications
 ======
