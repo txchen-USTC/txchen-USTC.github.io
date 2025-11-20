@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Hello, my name is Tianxiang Chen, and I am currently a final-year Ph.D student at School of Cyber Space and Technology, University of Science and Technology of China (USTC), under the supervision of Prof. [Nenghai Yu](https://scholar.google.com/citations?user=7620QAMAAAAJ&hl=en). Prior to this, I obtained my Bachelor's degree from the University of Electronic Science and Technology of China (UESTC), Yingcai Honors College. My major was in Mathematics, Physics, and Fundamental Sciences. My current research interests lie in the areas of Multimodal Large Language Models (MLLMs), Large Language Models (LLMs) and Medical AI.
+Hello, my name is Tianxiang Chen, and I am currently a final-year Ph.D student at School of Cyber Space and Technology, University of Science and Technology of China (USTC), under the supervision of Prof. [Nenghai Yu](https://scholar.google.com/citations?user=7620QAMAAAAJ&hl=en). Prior to this, I obtained my Bachelor's degree from the University of Electronic Science and Technology of China (UESTC), Yingcai Honors College. My current research interests lie in the areas of Multimodal Large Language Models (MLLMs), Large Language Models (LLMs) and Medical AI.
 
 I have published several first-author and corresponding-author papers in top-tier journals and conferences, including TMI, TCSVT, TGRS, Scientific Data, AAAI, EMNLP, IJCAI, and ACM MM. These publications reflect my commitment to advancing the state-of-the-art in these fields. During my PhD, I had the opportunity to complete a long-term internship at Alibaba Cloud, where I was jointly supervised by [Jieping Ye](https://scholar.google.com/citations?user=T9AzhwcAAAAJ&hl=en) (VP of Alibaba Cloud, IEEE Fellow) and [Le Lu](https://scholar.google.com/citations?user=kZn0f6gAAAAJ&hl=en) (IEEE Fellow, MICCAI Board Member). This experience provided me with valuable insights into the practical applications of AI and deepened my understanding of the industry's needs. I also have close cooporations with researchers and doctors from Oxford, Alan Turing Institute, Trinity College Dublin, Ruijin Hospital Luwan Branch, Shanghai Jiao Tong University and Ant Group.
 
@@ -16,13 +16,13 @@ I have published several first-author and corresponding-author papers in top-tie
 
 Selected Publications
 ======
-[**Arxiv 2025**] [Flora: Effortless Context Construction to Arbitrary Length and Scale](https://arxiv.org/pdf/2507.19786?), **Tianxiang Chen**, Zhentao Tan, Xiaofan Bo, Yue Wu, Tao Gong, Qi Chu, Jieping Ye, Nenghai Yu.
+[**AAAI 2026 Oral**] [Flora: Effortless Context Construction to Arbitrary Length and Scale](https://arxiv.org/pdf/2507.19786?), **Tianxiang Chen**, Zhentao Tan, Xiaofan Bo, Yue Wu, Tao Gong, Qi Chu, Jieping Ye.
 
 [**IEEE TMI 2025**] [Zig-rir: Zigzag rwkv-in-rwkv for efficient medical image segmentation](https://ieeexplore.ieee.org/abstract/document/10969076/), **Tianxiang Chen**, Xudong Zhou, Zhentao Tan, Yue Wu, Ziyang Wang, Zi Ye, Tao Gong, Qi Chu, Nenghai Yu, Le Lu. [IF=9.8]
 
 [**EMNLP Findings 2024**] [Llama SLayer 8B: Shallow Layers Hold the Key to Knowledge Injection](https://arxiv.org/pdf/2410.02330?), **Tianxiang Chen**, Zhentao Tan, Tao Gong, Yue Wu, Qi Chu, Bin Liu, Jieping Ye, Nenghai Yu.
 
-[**IEEE TGRS 2024**] [Mim-istd: Mamba-in-mamba for efficient infrared small target detection](https://ieeexplore.ieee.org/abstract/document/10740056/), **Tianxiang Chen**, Zi Ye, Zhentao Tan, Tao Gong, Yue Wu, Qi Chu, Bin Liu, Nenghai Yu, Jieping Ye. [IF=8.6]
+[**IEEE TGRS 2024**] [Mim-istd: Mamba-in-mamba for efficient infrared small target detection](https://ieeexplore.ieee.org/abstract/document/10740056/), **Tianxiang Chen**, Zi Ye, Zhentao Tan, Tao Gong, Yue Wu, Qi Chu, Bin Liu, Nenghai Yu, Jieping Ye. [IF=8.6] [ESI Highly Cited]
 
 [**IEEE TGRS 2024**] [FreqODEs: Frequency neural ODE networks for infrared small target detection](https://ieeexplore.ieee.org/abstract/document/10654364/), **Tianxiang Chen**, Zi Ye. [IF=8.6]
 
@@ -60,7 +60,7 @@ Internship
 2. 2021.12 - 2022.5: **SenseTime Research**, Research Intern on Medical AI
 3. 2021.07 - 2021.12: **Orient Securieties Research**, Assistant Financial Analyst (Quantitative Investment & CS)
 
-Reviewer Seversices
+Reviewer Services
 ======
 1. Journals: IEEE TIP, IEEE TMI, IEEE TNNLS, IEEE TMM, IEEE TCSVT, IEEE TGRS, Pattern Recognition
 2. Conferences: ACL, EMNLP, CVPR, ICCV, ECCV, AAAI, ACM MM, IJCAI, MICCAI
