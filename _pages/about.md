@@ -28,7 +28,7 @@ Selected Publications
 
 [**IEEE TGRS 2024**] [Feature preservation and shape cues assist infrared small target detection](https://ieeexplore.ieee.org/abstract/document/10681111/), **Tianxiang Chen**, Zhentao Tan, Tao Gong, Qi Chu, Bin Liu, Nenghai Yu. [IF=8.6]
 
-[**Scientific Data 2024**] [A Comprehensive Video Dataset for Surgical Laparoscopic Action Analysis](https://www.nature.com/articles/s41597-025-05093-7), Zi Ye, Ru Zhou, Zili Deng, Dan Wang, Ying Zhu, Xiaoli Jin, Lijun Zhang, **Tianxiang Chen**, Hanwei Zhang, Mingliang Wang
+[** Nature Scientific Data 2024**] [A Comprehensive Video Dataset for Surgical Laparoscopic Action Analysis](https://www.nature.com/articles/s41597-025-05093-7), Zi Ye, Ru Zhou, Zili Deng, Dan Wang, Ying Zhu, Xiaoli Jin, Lijun Zhang, **Tianxiang Chen**, Hanwei Zhang, Mingliang Wang
 
 [**AAAI 2024**] [Tci-former: Thermal conduction-inspired transformer for infrared small target detection](https://ojs.aaai.org/index.php/AAAI/article/download/27882/27789), **Tianxiang Chen**, Zhentao Tan, Qi Chu, Yue Wu, Bin Liu, Nenghai Yu.
 
