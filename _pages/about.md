@@ -16,7 +16,7 @@ I have published several first-author and corresponding-author papers in top-tie
 
 Selected Publications
 ======
-[**IEEE TIP 2025**] Neural Wave Propagation for Surgical Video Action Recognition: A New Dataset and Baseline, **Tianxiang Chen**, Weibin Wang, Zhentao Tan, Ru Zhou, Yue Wu, Ziyang Wang, Le Lu,  Mingliang Wang, Zi Ye. [IF=13.7]
+[**IEEE TIP 2026**] Neural Wave Propagation for Surgical Video Action Recognition: A New Dataset and Baseline, **Tianxiang Chen**, Weibin Wang, Zhentao Tan, Ru Zhou, Yue Wu, Ziyang Wang, Le Lu,  Mingliang Wang, Zi Ye. [IF=13.7]
 
 [**AAAI 2026 Oral**] [Flora: Effortless Context Construction to Arbitrary Length and Scale](https://arxiv.org/pdf/2507.19786?), **Tianxiang Chen**, Zhentao Tan, Xiaofan Bo, Yue Wu, Tao Gong, Qi Chu, Jieping Ye.
 
