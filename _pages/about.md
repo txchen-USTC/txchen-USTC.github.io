@@ -10,19 +10,21 @@ redirect_from:
 
 Hello, my name is Tianxiang Chen, and I am currently a final-year Ph.D student at School of Cyber Space and Technology, University of Science and Technology of China (USTC), under the supervision of Prof. [Nenghai Yu](https://scholar.google.com/citations?user=7620QAMAAAAJ&hl=en). Prior to this, I obtained my Bachelor's degree from the University of Electronic Science and Technology of China (UESTC), Yingcai Honors College. My current research interests lie in the areas of Multimodal Large Language Models (MLLMs), Large Language Models (LLMs), Agent and Medical AI.
 
-I have published several first-author and corresponding-author papers in top-tier journals and conferences, including TMI, TCSVT, TGRS, Nature Scientific Data, AAAI, EMNLP, IJCAI, and ACM MM. During my PhD, I had the opportunity to complete a long-term internship at Alibaba Cloud, where I was jointly supervised by [Jieping Ye](https://scholar.google.com/citations?user=T9AzhwcAAAAJ&hl=en) (VP of Alibaba, IEEE Fellow) and [Le Lu](https://scholar.google.com/citations?user=kZn0f6gAAAAJ&hl=en) (IEEE Fellow, MICCAI Board Member). This experience provided me with valuable insights into the practical applications of AI and deepened my understanding of the industry's needs. I also have close cooporations with researchers and doctors from Oxford, Alan Turing Institute, Trinity College Dublin, Ruijin Hospital Luwan Branch, Shanghai Jiao Tong University and Ant Group.
+I have published several first-author and corresponding-author papers in top-tier journals and conferences, including TMI, TCSVT, TGRS, Nature Scientific Data, AAAI, EMNLP, IJCAI, and ACM MM. During my PhD, I had the opportunity to complete a long-term internship at Alibaba Cloud, where I was jointly supervised by [Jieping Ye](https://scholar.google.com/citations?user=T9AzhwcAAAAJ&hl=en) (VP of Alibaba Cloud, IEEE Fellow) and [Le Lu](https://scholar.google.com/citations?user=kZn0f6gAAAAJ&hl=en) (IEEE/AIMBE/AAIA Fellow, MICCAI Board Member). This experience provided me with valuable insights into the practical applications of AI and deepened my understanding of the industry's needs. I also have close cooporations with researchers and doctors from Oxford, Alan Turing Institute, Trinity College Dublin, Ruijin Hospital Luwan Branch, Shanghai Jiao Tong University and Ant Group. I have received offers from multiple talent programs, including Alibaba Cloud Intelligence Group's Alibaba Star （阿里星）, Tencent's Qingyun Program（青云计划）, Ant Group's Xing Plan-A（蚂蚁星）, and Baidu's Ernie Foundation Model Team AIDU Talent Program（AIDU人才计划）, among others.
 
-**Looking for Research Cooporations. If You are Interested, Drop Me an E-mail!**
+**Looking for Research Cooporations and also Research Interns. If You are Interested, Drop Me an E-mail!**
 
 Selected Publications
 ======
+[**IEEE TIP 2025**] Neural Wave Propagation for Surgical Video Action Recognition: A New Dataset and Baseline, **Tianxiang Chen**, Weibin Wang, Zhentao Tan, Ru Zhou, Yue Wu, Ziyang Wang, Le Lu,  Mingliang Wang, Zi Ye. [IF=13.7]
+
 [**AAAI 2026 Oral**] [Flora: Effortless Context Construction to Arbitrary Length and Scale](https://arxiv.org/pdf/2507.19786?), **Tianxiang Chen**, Zhentao Tan, Xiaofan Bo, Yue Wu, Tao Gong, Qi Chu, Jieping Ye.
 
 [**IEEE TMI 2025**] [Zig-rir: Zigzag rwkv-in-rwkv for efficient medical image segmentation](https://ieeexplore.ieee.org/abstract/document/10969076/), **Tianxiang Chen**, Xudong Zhou, Zhentao Tan, Yue Wu, Ziyang Wang, Zi Ye, Tao Gong, Qi Chu, Nenghai Yu, Le Lu. [IF=9.8]
 
 [**EMNLP Findings 2024**] [Llama SLayer 8B: Shallow Layers Hold the Key to Knowledge Injection](https://arxiv.org/pdf/2410.02330?), **Tianxiang Chen**, Zhentao Tan, Tao Gong, Yue Wu, Qi Chu, Bin Liu, Jieping Ye, Nenghai Yu.
 
-[**IEEE TGRS 2024**] [Mim-istd: Mamba-in-mamba for efficient infrared small target detection](https://ieeexplore.ieee.org/abstract/document/10740056/), **Tianxiang Chen**, Zi Ye, Zhentao Tan, Tao Gong, Yue Wu, Qi Chu, Bin Liu, Nenghai Yu, Jieping Ye. [IF=8.6] [ESI Highly Cited]
+[**IEEE TGRS 2024**] [Mim-istd: Mamba-in-mamba for efficient infrared small target detection](https://ieeexplore.ieee.org/abstract/document/10740056/), **Tianxiang Chen**, Zi Ye, Zhentao Tan, Tao Gong, Yue Wu, Qi Chu, Bin Liu, Nenghai Yu, Jieping Ye. [IF=8.6] [**ESI Highly Cited**]
 
 [**IEEE TGRS 2024**] [FreqODEs: Frequency neural ODE networks for infrared small target detection](https://ieeexplore.ieee.org/abstract/document/10654364/), **Tianxiang Chen**, Zi Ye. [IF=8.6]
 
@@ -56,9 +58,10 @@ Awards
 
 Internship
 ======
-1. 2023.10 - 2025.11: **Alibaba Cloud & Alibaba DAMO Academy**, Research Intern on LLMs/MLLMs
-2. 2021.12 - 2022.5: **SenseTime Research**, Research Intern on Medical AI
-3. 2021.07 - 2021.12: **Orient Securieties Research**, Assistant Financial Analyst (Quantitative Investment & CS)
+1. 2026.2 - Present: **Terminal Intelligence Computing Division, Alibaba Cloud**, Astar Research Intern on Agentic RL & On-Policy Distillation
+2. 2023.10 - 2025.11: **Aspara Lab (Now Tongyi Lab), Alibaba Cloud**, Research Intern on LLMs/MLLMs
+3. 2021.12 - 2022.5: **SenseTime Research**, Research Intern on Medical AI
+4. 2021.07 - 2021.12: **Orient Securieties Research**, Assistant Financial Analyst (Quantitative Investment & CS)
 
 Reviewer Services
 ======
