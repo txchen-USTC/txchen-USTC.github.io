@@ -66,6 +66,6 @@ Internship
 
 Reviewer Services
 ======
-1. Journals: IEEE TIP, IEEE TMI, IEEE TNNLS, IEEE TMM, IEEE TCSVT, IEEE TGRS, Pattern Recognition
-2. Conferences: ACL, EMNLP, CVPR, ICCV, ECCV, AAAI, ACM MM, IJCAI, MICCAI
+1. Journals: IEEE TPAMI, IEEE TIP, IEEE TMI, IEEE TNNLS, IEEE TMM, IEEE TCSVT, IEEE TGRS, PR
+2. Conferences: Neurips, ACL, EMNLP, CVPR, ICCV, ECCV, AAAI, ACM MM, IJCAI, MICCAI
 
