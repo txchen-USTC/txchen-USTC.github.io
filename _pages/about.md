@@ -8,19 +8,23 @@ redirect_from:
 ---
 
 
-Hello, my name is Tianxiang Chen, and I am currently a final-year Ph.D student at School of Cyber Space and Technology, University of Science and Technology of China (USTC), under the supervision of Prof. [Nenghai Yu](https://scholar.google.com/citations?user=7620QAMAAAAJ&hl=en). Prior to this, I obtained my Bachelor's degree from the University of Electronic Science and Technology of China (UESTC), Yingcai Honors College. My current research interests lie in the areas of Multimodal Large Language Models (MLLMs), Large Language Models (LLMs), Agent and Medical AI.
+Hello, my name is Tianxiang Chen, and I am currently an algorithm expert at Alibaba Cloud and also a postdoctoral researcher in the joint postdoctoral program of Fudan University and Alibaba Cloud, supervised by [Xipeng Qiu](https://scholar.google.com/citations?user=Pq4Yp_kAAAAJ&hl=en) (Fudan NLP Group). Prior to this, I received my Ph.D. degree in 2026 from the School of Cyber Space and Technology, University of Science and Technology of China (USTC), under the supervision of Prof. [Nenghai Yu](https://scholar.google.com/citations?user=7620QAMAAAAJ&hl=en). I obtained my Bachelor's degree in 2021 from the University of Electronic Science and Technology of China (UESTC), Yingcai Honors College. My current research interests lie in the areas of Multimodal Large Language Models (MLLMs), Large Language Models (LLMs), Agentic RL and Medical AI.
 
-I have published 10+ first-author and corresponding-author papers in top-tier journals and conferences, including TIP, TMI, TCSVT, TGRS, Nature Scientific Data, AAAI, EMNLP, IJCAI, and ACM MM. During my PhD, I had the opportunity to complete a long-term internship at Alibaba Cloud, where I was jointly supervised by [Jieping Ye](https://scholar.google.com/citations?user=T9AzhwcAAAAJ&hl=en) (VP of Alibaba Cloud, IEEE Fellow) and [Le Lu](https://scholar.google.com/citations?user=kZn0f6gAAAAJ&hl=en) (IEEE/AIMBE/AAIA Fellow, MICCAI Board Member). This experience provided me with valuable insights into the practical applications of AI and deepened my understanding of the industry's needs. I also have close cooporations with researchers and doctors from Oxford, Alan Turing Institute, Trinity College Dublin, Ruijin Hospital Luwan Branch, Shanghai Jiao Tong University and Ant Group. I have received offers from multiple talent programs, including Alibaba Cloud Intelligence Group's Alibaba Star （阿里星）, Tencent's Qingyun Program（青云计划）, Ant Group's AntStar Plan-A（蚂蚁星 Plan-A）, and Baidu's Ernie Foundation Model Team AIDU Talent Program（AIDU人才计划）, among others. Also, I am a recipient of the Special Award of the President of the Chinese Academy of Sciences（中科院院长特别奖）, the highest distinction awarded to PhD candidates within the Chinese Academy of Sciences.
+I have published 10+ first-author papers in top-tier journals and conferences, including TPAMI, TIP, TMI, TCSVT, TGRS, Nature Scientific Data, AAAI, EMNLP, IJCAI, and ACM MM. During my PhD, I had the opportunity to complete a long-term internship at Alibaba Cloud, where I was jointly supervised by [Jieping Ye](https://scholar.google.com/citations?user=T9AzhwcAAAAJ&hl=en) (VP of Alibaba, IEEE Fellow) and [Le Lu](https://scholar.google.com/citations?user=kZn0f6gAAAAJ&hl=en) (IEEE/AIMBE/AAIA Fellow, MICCAI Board Member). I also have close cooporations with researchers and doctors from Oxford, Alan Turing Institute, Trinity College Dublin, Ruijin Hospital Luwan Branch, Shanghai Jiao Tong University and Ant Group. I have received offers from multiple talent programs, including Alibaba Cloud Intelligence Group's Alibaba Star（阿里星）, Tencent's Qingyun Program（青云计划）, Ant Group's AntStar Plan-A（蚂蚁星 Plan-A）, and Baidu's Ernie Foundation Model Team AIDU Talent Program（AIDU人才计划）, among others. Also, I am a recipient of the Special Award of the President of the Chinese Academy of Sciences（中科院院长特别奖）, the highest distinction awarded to PhD candidates within the Chinese Academy of Sciences.
 
 **Looking for Research Cooporations and also Research Interns. If You are Interested, Drop Me an E-mail!**
 
 Selected Publications
 ======
-[**IEEE TIP 2026**] Neural Wave Propagation for Surgical Video Action Recognition: A New Dataset and Baseline, **Tianxiang Chen**, Weibin Wang, Zhentao Tan, Ru Zhou, Yue Wu, Ziyang Wang, Le Lu,  Mingliang Wang, Zi Ye. [IF=13.7]
+[**IEEE TPAMI 2026**] [SPIDER: Multi-Layer Semantic Token Pruning and Adaptive Sub-Layer Skipping in Multimodal Large Language Models](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xU3Ysg0AAAAJ&sortby=pubdate&citation_for_view=xU3Ysg0AAAAJ:mB3voiENLucC), **Tianxiang Chen**, Zhentao Tan, Zi Ye, Yue Wu, Xiaobing Tu, Jinkui Ren, Xiantao Zhang, Tao Gong, Qi Chu, Nenghai Yu, Xipeng Qiu, Jieping Ye. [IF=20.4]
+
+[**IEEE TIP 2026**] [Neural Wave Propagation for Surgical Video Action Recognition: A New Dataset and Baseline](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xU3Ysg0AAAAJ&sortby=pubdate&citation_for_view=xU3Ysg0AAAAJ:hC7cP41nSMkC), **Tianxiang Chen**, Weibin Wang, Zhentao Tan, Ru Zhou, Yue Wu, Ziyang Wang, Le Lu,  Mingliang Wang, Zi Ye. [IF=15.6]
 
 [**AAAI 2026 Oral**] [Flora: Effortless Context Construction to Arbitrary Length and Scale](https://arxiv.org/pdf/2507.19786?), **Tianxiang Chen**, Zhentao Tan, Xiaofan Bo, Yue Wu, Tao Gong, Qi Chu, Jieping Ye.
 
-[**IEEE TMI 2025**] [Zig-rir: Zigzag rwkv-in-rwkv for efficient medical image segmentation](https://ieeexplore.ieee.org/abstract/document/10969076/), **Tianxiang Chen**, Xudong Zhou, Zhentao Tan, Yue Wu, Ziyang Wang, Zi Ye, Tao Gong, Qi Chu, Nenghai Yu, Le Lu. [IF=9.8]
+[**IEEE TGRS 2024**] [Mim-istd: Mamba-in-mamba for efficient infrared small target detection](https://ieeexplore.ieee.org/abstract/document/10740056/), **Tianxiang Chen**, Zi Ye, Zhentao Tan, Tao Gong, Yue Wu, Qi Chu, Bin Liu, Nenghai Yu, Jieping Ye. [IF=8.6] [**ESI Highly Cited**]
+
+[**IEEE TMI 2025**] [Zig-rir: Zigzag rwkv-in-rwkv for efficient medical image segmentation](https://ieeexplore.ieee.org/abstract/document/10969076/), **Tianxiang Chen**, Xudong Zhou, Zhentao Tan, Yue Wu, Ziyang Wang, Zi Ye, Tao Gong, Qi Chu, Nenghai Yu, Le Lu. [IF=12.4] [**ESI Highly Cited**]
 
 [**EMNLP Findings 2024**] [Llama SLayer 8B: Shallow Layers Hold the Key to Knowledge Injection](https://arxiv.org/pdf/2410.02330?), **Tianxiang Chen**, Zhentao Tan, Tao Gong, Yue Wu, Qi Chu, Bin Liu, Jieping Ye, Nenghai Yu.
 
@@ -59,7 +63,7 @@ Awards
 
 Internship
 ======
-1. 2026.2 - Present: **Terminal Intelligence Computing Division, Alibaba Cloud**, Astar Research Intern on Agentic RL & On-Policy Distillation
+1. 2026.2 - 2026.7: **Terminal Intelligence Computing Division, Alibaba Cloud**, Astar Research Intern on Agentic RL & On-Policy Distillation
 2. 2023.10 - 2025.11: **Aspara Lab (Now Tongyi Lab), Alibaba Cloud**, Research Intern on LLMs/MLLMs
 3. 2021.12 - 2022.5: **SenseTime Research**, Research Intern on Medical AI
 4. 2021.07 - 2021.12: **Orient Securieties Research**, Assistant Financial Analyst (Quantitative Investment & CS)
