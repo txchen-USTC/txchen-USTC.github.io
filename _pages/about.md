@@ -12,7 +12,6 @@ Hello, my name is Tianxiang Chen, and I am currently an algorithm expert at Alib
 
 I have published 10+ first-author papers in top-tier journals and conferences, including TPAMI, TIP, TMI, TCSVT, TGRS, Nature Scientific Data, AAAI, EMNLP, IJCAI, and ACM MM. During my PhD, I had the opportunity to complete a long-term internship at Alibaba Cloud, where I was jointly supervised by [Jieping Ye](https://scholar.google.com/citations?user=T9AzhwcAAAAJ&hl=en) (VP of Alibaba, IEEE Fellow) and [Le Lu](https://scholar.google.com/citations?user=kZn0f6gAAAAJ&hl=en) (IEEE/AIMBE/AAIA Fellow, MICCAI Board Member). I also have close cooporations with researchers and doctors from Oxford, Alan Turing Institute, Trinity College Dublin, Ruijin Hospital Luwan Branch, Shanghai Jiao Tong University and Ant Group. I have received offers from multiple talent programs, including Alibaba Cloud Intelligence Group's Alibaba Star（阿里星）, Tencent's Qingyun Program（青云计划）, Ant Group's AntStar Plan-A（蚂蚁星 Plan-A）, and Baidu's Ernie Foundation Model Team AIDU Talent Program（AIDU人才计划）, among others. Also, I am a recipient of the Special Award of the President of the Chinese Academy of Sciences（中科院院长特别奖）, the highest distinction awarded to PhD candidates within the Chinese Academy of Sciences.
 
-**Looking for Research Cooporations and also Research Interns. If You are Interested, Drop Me an E-mail!**
 
 Selected Publications
 ======
